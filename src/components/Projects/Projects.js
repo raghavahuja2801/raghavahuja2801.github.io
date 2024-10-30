@@ -2,8 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import editor from "../../Assets/Projects/codeEditor.png";
-import chatify from "../../Assets/Projects/chatify.png";
+import alumni from "../../Assets/Projects/alumni.png"
 import podcastai from "../../Assets/Projects/podcastai.png"
 import bitsOfCode from "../../Assets/Projects/blog.png";
 
@@ -33,21 +32,20 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="Bits-0f-C0de"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              title="AI Job Portal"
+              description="AI Job Portal is a web application built on the MERN stack (MongoDB, Express.js, React, Node.js) designed to connect employers with candidates efficiently. The platform leverages AI to streamline job application processes, such as resume parsing, skill extraction, and job matching, making it easier for candidates to find the right job and employers to find the right talent."
+              ghLink="https://github.com/raghavahuja2801/AI-Portal"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={editor}
+              imgPath={alumni}
               isBlog={false}
-              title="Editor.io"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
-              ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://editor.soumya-jit.tech/"
+              title="Alumni Portal"
+              description="The alumni portal is a dynamic web application built on the MEAN stack (MongoDB, Express.js, Angular, and Node.js) designed to connect alumni of the school in a streamlined and interactive platform. It offers features like alumni registration, profile creation, and searchable directories to help users reconnect and network with classmates."
+              ghLink="https://github.com/raghavahuja2801/school-alumni-portal"
+              demoLink="https://school-alumni-portal-ma9dk2g0v-raghavahuja2801s-projects.vercel.app"
             />
           </Col>
         </Row>

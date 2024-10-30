@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.7e5dd331.css",
-    "main.js": "/react-gh-pages/static/js/main.c8b59471.js",
-    "static/js/415.4d6acbeb.chunk.js": "/react-gh-pages/static/js/415.4d6acbeb.chunk.js",
-    "static/js/787.1ed0c42c.chunk.js": "/react-gh-pages/static/js/787.1ed0c42c.chunk.js",
-    "static/media/podcastai.png": "/react-gh-pages/static/media/podcastai.566bdba8659ebc621e05.png",
-    "static/media/codeEditor.png": "/react-gh-pages/static/media/codeEditor.1b585492490c8c1cace9.png",
-    "static/media/Raghav_Ahuja.pdf": "/react-gh-pages/static/media/Raghav_Ahuja.6b8bf40acd28f5e2545f.pdf",
-    "static/media/blog.png": "/react-gh-pages/static/media/blog.fb8ab7f271a937d5fc01.png",
-    "static/media/home-main.svg": "/react-gh-pages/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
-    "static/media/about.png": "/react-gh-pages/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/chatify.png": "/react-gh-pages/static/media/chatify.7206044e0b5cdad44726.png",
-    "static/media/home-bg.jpg": "/react-gh-pages/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/avatar.svg": "/react-gh-pages/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
-    "static/media/pre.svg": "/react-gh-pages/static/media/pre.d4812f51c8c80976eaab.svg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.7e5dd331.css.map": "/react-gh-pages/static/css/main.7e5dd331.css.map",
-    "main.c8b59471.js.map": "/react-gh-pages/static/js/main.c8b59471.js.map",
-    "415.4d6acbeb.chunk.js.map": "/react-gh-pages/static/js/415.4d6acbeb.chunk.js.map",
-    "787.1ed0c42c.chunk.js.map": "/react-gh-pages/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/static/css/main.18c476ba.css",
+    "main.js": "/static/js/main.1334a2ba.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/podcastai.png": "/static/media/podcastai.566bdba8659ebc621e05.png",
+    "static/media/codeEditor.png": "/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/Raghav_Ahuja.pdf": "/static/media/Raghav_Ahuja.6b8bf40acd28f5e2545f.pdf",
+    "static/media/blog.png": "/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/chatify.png": "/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.18c476ba.css.map": "/static/css/main.18c476ba.css.map",
+    "main.1334a2ba.js.map": "/static/js/main.1334a2ba.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e5dd331.css",
-    "static/js/main.c8b59471.js"
+    "static/css/main.18c476ba.css",
+    "static/js/main.1334a2ba.js"
   ]
 }
