@@ -19,39 +19,36 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              I am a passionate programmer with expertise in languages such as
+              <span className="purple"> Python, JavaScript, C++, SQL, and Go</span>, with additional experience in
+              <span className="purple"> Haskell</span> and <span className="purple"> Rust</span>. My interests focus on
+              building innovative web technologies and products, particularly in the areas of
+              <span className="purple"> AI, machine learning, and blockchain</span>.
               <br />
-              <br />I am fluent in classics like
+              <br />
+              I specialize in developing high-performance applications using modern frameworks and libraries like
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="purple"> React.js, Next.js, and Angular </b>
               </i>
-              <br />
-              <br />
-              My field of Interest's are building new &nbsp;
+              alongside backend tools like
               <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Blockchain.
-                </b>
-              </i>
+                <b className="purple"> Flask, FastAPI, and Node.js</b>
+              </i>.
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              My database expertise includes working with
               <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
+                <b className="purple">MySQL, MongoDB, Firebase,</b>
+              </i> and <i><b className="purple">PostgreSQL</b></i>, ensuring data reliability and scalability.
+              <br />
+              <br />
+              I also have a strong foundation in DevOps and cloud-based workflows, using tools like
               <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i>
+                <b className="purple">Jenkins, Docker, Kubernetes,</b>
+              </i> and <i><b className="purple">GitLab CI</b></i> to optimize development pipelines and automate deployments, enhancing stability and efficiency in each project.
             </p>
           </Col>
+
           <Col md={4} className="myAvtar">
             <Tilt>
               <img src={myImg} className="img-fluid" alt="avatar" />
@@ -67,7 +64,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://github.com/raghavahuja2801"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -77,7 +74,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
+                  href="https://twitter.com/raghavahuja18"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -87,7 +84,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://www.linkedin.com/in/ahuja-raghav/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -97,7 +94,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/soumyajit4419"
+                  href="https://www.instagram.com/raghhav_ahuja"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
