@@ -7,20 +7,17 @@ import {
   DiNodejs,
   DiMongodb,
   DiPython,
+  DiHaskell,
   DiGit,
 } from "react-icons/di";
 import {
   SiFirebase,
   SiNextdotjs,
   SiPostgresql,
-  SiDocker,
-  SiJenkins,
-  SiAngular,
   SiTensorflow,
 } from "react-icons/si";
 import { TbBrandGolang } from "react-icons/tb";
 import { FaRust } from "react-icons/fa";
-import { GrHaskell } from "react-icons/gr";
 
 function Techstack() {
   return (
@@ -41,7 +38,7 @@ function Techstack() {
         <DiReact />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiAngular />
+        <DiPython />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiMongodb />
@@ -59,19 +56,13 @@ function Techstack() {
         <SiPostgresql />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiDocker />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiJenkins />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
         <SiTensorflow />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <FaRust />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <GrHaskell />
+        <DiHaskell />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiPython />
