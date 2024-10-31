@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
 import Container from "react-bootstrap/Container";
+import logo from "../../src/Assets/logo.png"
 import { Link } from "react-router-dom";
 import {
   AiOutlineHome,
@@ -34,7 +35,8 @@ function NavBar() {
     >
       <Container>
         <Navbar.Brand href="/" className="d-flex">
-        <span className="ml-2 text-xl font-bold text-purple-600">Raghav A.</span>        </Navbar.Brand>
+        <span style={{ fontWeight: 'bold', color: 'white' }}>Raghav Ahuja</span>
+        </Navbar.Brand>
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"
           onClick={() => {
