@@ -5,6 +5,7 @@ import Particle from "../Particle";
 import alumni from "../../Assets/Projects/alumni.png"
 import podcastai from "../../Assets/Projects/podcastai.png"
 import bitsOfCode from "../../Assets/Projects/blog.png";
+import disney from "../../Assets/Projects/disney.png"
 
 function Projects() {
   return (
@@ -46,6 +47,16 @@ function Projects() {
               description="The alumni portal is a dynamic web application built on the MEAN stack (MongoDB, Express.js, Angular, and Node.js) designed to connect alumni of the school in a streamlined and interactive platform. It offers features like alumni registration, profile creation, and searchable directories to help users reconnect and network with classmates."
               ghLink="https://github.com/raghavahuja2801/school-alumni-portal"
               demoLink="https://school-alumni-portal-ma9dk2g0v-raghavahuja2801s-projects.vercel.app"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={disney}
+              isBlog={false}
+              title="Disney Clone"
+              description="The alumni portal is a dynamic web application built on the MEAN stack (MongoDB, Express.js, Angular, and Node.js) designed to connect alumni of the school in a streamlined and interactive platform. It offers features like alumni registration, profile creation, and searchable directories to help users reconnect and network with classmates."
+              ghLink="https://github.com/raghavahuja2801/disneyclone"
+              demoLink="https://raghavahuja2801.github.io/disneyclone/"
             />
           </Col>
         </Row>
