@@ -26,7 +26,7 @@ function Projects() {
               isBlog={false}
               title="PodcastAI"
               description="Convert any document into a high-quality podcast. Save time, reach wider audiences, and make your content more accessible"
-              demoLink="https://warm-mesa-96509-c160eec7ab15.herokuapp.com"
+              demoLink="www.podcast-ai.xyz"
             />
           </Col>
 
