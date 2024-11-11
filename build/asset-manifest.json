@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.18c476ba.css",
-    "main.js": "/static/js/main.445738d7.js",
+    "main.js": "/static/js/main.a1260627.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/disney.png": "/static/media/disney.3a1bfee891edd3feda87.png",
     "static/media/notion-clone.png": "/static/media/notion-clone.b561649f585e5a95ae30.png",
+    "static/media/Raghav_Ahuja.pdf": "/static/media/Raghav_Ahuja.c7aefd68a24291ee3571.pdf",
     "static/media/podcastai.png": "/static/media/podcastai.566bdba8659ebc621e05.png",
     "static/media/alumni.png": "/static/media/alumni.643bb73cfce1fb8768ba.png",
-    "static/media/Raghav_Ahuja.pdf": "/static/media/Raghav_Ahuja.6b8bf40acd28f5e2545f.pdf",
     "static/media/blog.png": "/static/media/blog.fb8ab7f271a937d5fc01.png",
     "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
@@ -17,12 +17,12 @@
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.18c476ba.css.map": "/static/css/main.18c476ba.css.map",
-    "main.445738d7.js.map": "/static/js/main.445738d7.js.map",
+    "main.a1260627.js.map": "/static/js/main.a1260627.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.18c476ba.css",
-    "static/js/main.445738d7.js"
+    "static/js/main.a1260627.js"
   ]
 }
